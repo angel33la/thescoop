@@ -95,7 +95,7 @@ body {
 }
 
 
-
+/* trending news */
 
 
 .trending-news-box:last-of-type {
@@ -159,6 +159,8 @@ img {
 hr {
   color: #07bff1;
 }
+
+/* footer */
 
 .social {
   text-align: center;
